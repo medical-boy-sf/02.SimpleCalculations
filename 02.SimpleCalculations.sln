@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.TileRepair", "18.TileRep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Money", "19.Money\19.Money.csproj", "{2225A470-EA5F-4D8B-B8E4-6F87DDA80E72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.DailyEarning", "20.DailyEarning\20.DailyEarning.csproj", "{0EC8E8E3-8C89-4E03-B43B-F5ED4CD8C11D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{2225A470-EA5F-4D8B-B8E4-6F87DDA80E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2225A470-EA5F-4D8B-B8E4-6F87DDA80E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2225A470-EA5F-4D8B-B8E4-6F87DDA80E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC8E8E3-8C89-4E03-B43B-F5ED4CD8C11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC8E8E3-8C89-4E03-B43B-F5ED4CD8C11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC8E8E3-8C89-4E03-B43B-F5ED4CD8C11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC8E8E3-8C89-4E03-B43B-F5ED4CD8C11D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
