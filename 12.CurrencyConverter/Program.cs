@@ -51,6 +51,40 @@ namespace _12.CurrencyConverter
                 }
             }
 
+            else if (currency == "EUR")
+            {
+                switch (convertedCurrency)
+                {
+                    case "USD":
+                        total = val * eur / usd;
+                        break;
+
+                    case "GBP":
+                        total = val * eur / gbp;
+                        break;
+                    case "BGN":
+                        total = val * eur / bgn;
+                        break;
+                }
+            }
+
+            else if (currency == "GBP")
+            {
+                switch (convertedCurrency)
+                {
+                    case "USD":
+                        total = val * gbp / usd;
+                        break;
+
+                    case "EUR":
+                        total = val * gbp / eur;
+                        break;
+                    case "BGN":
+                        total = val * gbp / bgn;
+                        break;
+                }
+            }
+
             Console.WriteLine($"{total:F2} {convertedCurrency}");
         }
     }
