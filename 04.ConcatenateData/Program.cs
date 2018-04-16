@@ -11,7 +11,7 @@ namespace _04.ConcatenateData
             int age = int.Parse(Console.ReadLine());
             string town = Console.ReadLine();
 
-            Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}");
+            Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
         }
     }
 }
