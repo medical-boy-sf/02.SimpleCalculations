@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.CurrencyConverter", "12.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.1000daysAfterBirth", "13.1000daysAfterBirth\13.1000daysAfterBirth.csproj", "{74ACAB83-A4BC-4785-B311-D22E0B9B9BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.TrainingLabs", "16.TrainingLabs\16.TrainingLabs.csproj", "{5804F861-CC62-4291-9EE8-83B4B0088485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{74ACAB83-A4BC-4785-B311-D22E0B9B9BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74ACAB83-A4BC-4785-B311-D22E0B9B9BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74ACAB83-A4BC-4785-B311-D22E0B9B9BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5804F861-CC62-4291-9EE8-83B4B0088485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5804F861-CC62-4291-9EE8-83B4B0088485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5804F861-CC62-4291-9EE8-83B4B0088485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5804F861-CC62-4291-9EE8-83B4B0088485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
